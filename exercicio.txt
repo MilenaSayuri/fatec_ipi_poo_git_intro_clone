@@ -1,0 +1,13 @@
+git add calculadora.py
+git status
+git commit -m "ap01(git): divisao implementada" 
+git push 
+git add teste_calculadora.py
+git status
+git commit -m "ap01(git): divisao implementada"
+git push 
+git log --pretty=oneline
+git tag -a v1.3.0 332eec1
+git push origin --tags
+
+
